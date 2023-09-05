@@ -1,6 +1,6 @@
 const Portfolio = () => {
   return (
-    <div className="h-[25vh] xl:h-[30vh] bg-slate-200">
+    <div id="portfolio" className="h-[25vh] xl:h-[30vh] bg-slate-200">
       <div className=" flex justify-center h-[40%]">
         <span className=" text-texto font-semibold font-brice text-movil xl:text-yyl leading-[8rem]">
           nuestro
