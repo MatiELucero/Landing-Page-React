@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+
+
 export default {
   content: [
     "./index.html",
@@ -14,7 +16,7 @@ export default {
       }
     },
     fontFamily: {
-      brice: ['Brice Semi Bold Expanded'],
+      brice: ['Brice Semi Bold Condensed'],
       ptsans: ['PT Sans']
     },
     fontSize: {
@@ -29,7 +31,7 @@ export default {
       'xxl': '160px',
       'yyl': '95px',
       tablet: '100px',
-      movil: '70px',
+      movil: '58px',
     },
   },
   

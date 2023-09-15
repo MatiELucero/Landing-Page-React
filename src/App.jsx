@@ -6,6 +6,7 @@ import Services2 from "./components/Services2"
 import Portfolio from "./components/Portfolio"
 import Proyectos from "./components/Proyectos"
 import Form from "./components/form"
+import Footer from "./components/Footer"
 
 
 
@@ -24,6 +25,7 @@ function App() {
         <Portfolio />
         <Proyectos />
         <Form />
+        <Footer />
       </>
     </> 
   )

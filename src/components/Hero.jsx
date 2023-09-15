@@ -2,7 +2,7 @@ const Hero = () => {
   return (
     <div className="bg-[url('/src/img/Imagen-Fondo.png')] bg-cover bg-bottom h-[90vh] p-4">
       <div className="flex justify-center h-[50%] md:h-[50%] items-end">
-        <span className="text-fondo_botones text-movil md:text-6xl/[128px] font-brice">
+        <span className="text-fondo_botones text-movil md:text-6xl/[128px] font-brice ">
           diseño
         </span>
       </div>
@@ -16,5 +16,3 @@ const Hero = () => {
 };
 
 export default Hero;
-/*    <img className="h-[85vh] w-full" src="/src/img/Imagen Fondo.png" ></img>
- */
