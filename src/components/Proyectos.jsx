@@ -10,7 +10,7 @@ const Proyectos = () => {
           <div className="h-[80%]">
             <img
               className="h-full w-full"
-              src="/src/img/Imagen Trinity.png"
+              src="/src/img/imagen_trinity.png"
             ></img>
           </div>
           <div className="bg-white flex justify-start items-center h-[20%] text-xl font-ptsans px-6">
@@ -24,7 +24,7 @@ const Proyectos = () => {
           <div className="h-[80%]">
             <img
               className="h-full w-full"
-              src="/src/img/Imagen-Brig.png"
+              src="/src/img/imagen_brig.png"
             ></img>
           </div>
           <div className="bg-white flex justify-start items-center h-[20%] text-xl font-ptsans px-6">
@@ -38,7 +38,7 @@ const Proyectos = () => {
           <div className="h-[80%]">
             <img
               className="h-full w-full"
-              src="/src/img/Imagen-Master-House.png"
+              src="/src/img/imagen_master_house.png"
             ></img>
           </div>
           <div className="bg-white flex justify-start items-center h-[20%] text-xl font-ptsans px-6">
@@ -52,7 +52,7 @@ const Proyectos = () => {
           <div className="h-[80%]">
             <img
               className="h-full w-full"
-              src="/src/img/Imagen-BeFit.png"
+              src="/src/img/imagen_beFit.png"
             ></img>
           </div>
           <div className="bg-white flex justify-start items-center h-[20%] text-xl font-ptsans px-6">

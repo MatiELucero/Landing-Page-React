@@ -16,8 +16,8 @@ export default {
       }
     },
     fontFamily: {
-      brice: ['Brice Semi Bold Condensed'],
-      ptsans: ['PT Sans']
+      brice: ['Semi Bold Condensed','Brice'],
+      ptsans: ['Regular','PTSans']
     },
     fontSize: {
       sm: '0.8rem',
@@ -26,7 +26,7 @@ export default {
       '2xl': '1.563rem',
       '3xl': '1.953rem',
       '4xl': '2.441rem',
-      '5xl': '3.052rem',
+      '5xl': '115px',
       '6xl': '130px',
       'xxl': '160px',
       'yyl': '95px',
