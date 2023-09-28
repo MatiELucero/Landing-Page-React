@@ -10,7 +10,7 @@ const Header = () => {
       </div>
       <nav
         id="inicio"
-        className={`fixed w-[90vw] xl:static h-full ${showMenu ? 'left-0' : '-left-full'} top-0 flex flex-col xl:flex-row items-center justify-center gap-10 transition-all duration-500 bg-nav_footer`}
+        className={`fixed w-[88%] md:w-[40%] xl:static h-full ${showMenu ? 'left-0' : '-left-full'} top-0 flex flex-col xl:flex-row items-center justify-center gap-10 transition-all duration-500 bg-nav_footer`}
       >
         <a href="#inicio" className="text-texto text-2xl">
           Inicio

@@ -10,18 +10,18 @@ const Footer = () => {
                     </div>
                     <div className='flex justify-center items-start xl:h-[50%]'>
                         <a href='https://www.instagram.com/pardimkt/' target='blank' className='text-white text-xl px-1 xl:text-3xl xl:px-2 transition ease-in-out delay-150 bg-texto hover:-translate-y-1 hover:scale-110 hover:bg-texto duration-300'><RiInstagramLine /></a>
-                        <a href='https://www.facebook.com/profile.php?id=100093444108196&locale=es_LA' className='text-white text-xl px-1 xl:text-3xl xl:px-2 transition ease-in-out delay-150 bg-texto hover:-translate-y-1 hover:scale-110 hover:bg-texto duration-300'><RiFacebookCircleLine /></a>
+                        <a href='https://www.facebook.com/profile.php?id=100093444108196&locale=es_LA' target='blank' className='text-white text-xl px-1 xl:text-3xl xl:px-2 transition ease-in-out delay-150 bg-texto hover:-translate-y-1 hover:scale-110 hover:bg-texto duration-300'><RiFacebookCircleLine /></a>
                         <a href='+54 351 268-8699' className='text-white text-xl px-1 xl:text-3xl xl:px-2 transition ease-in-out delay-150 bg-texto hover:-translate-y-1 hover:scale-110 hover:bg-texto duration-300'><RiPhoneLine /></a>
                     </div>
                 </div>
                 <div className='bg-texto h-full md:hidden px-3 py-4'>
-                    <img src='/src/img/Imagen-Footer.png'></img>
+                    <img src='/src/img/imagen_footer.png'></img>
                 </div>
             </div>
             
             <div className="bg-texto md:h-[100%] grid grid-cols-2 gap-2 md:gap-0 md:grid-cols-1 xl:h-[100%]">
                 <div className='px-2 flex justify-center items-center md:flex md:justify-center md:text-center h-[100%] md:h-[50%] xl:h-[100%]'>
-                    <img src='/src/img/Logo-2.png' className='h-16 md:object-cover md:h-16 xl:h-32'></img>
+                    <img src='/src/img/logo2.png' className='h-16 md:object-cover md:h-16 xl:h-32'></img>
                 </div>
                 <div className='px-2 flex justify-center items-center md:flex md:place-items-end md:justify-center md:h-[50%] xl:h-[50%]'>
                     <span className=' text-white font-ptsans'>Pardi Marketing 2023. Todos los derechos reservados.</span>
