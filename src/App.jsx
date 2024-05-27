@@ -8,10 +8,6 @@ import Proyectos from "./components/Proyectos"
 import Form from "./components/form"
 import Footer from "./components/Footer"
 
-
-
-
-
 function App() {
 
   return (

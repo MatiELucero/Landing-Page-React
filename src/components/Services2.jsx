@@ -4,7 +4,7 @@ const Services2 = () => {
       <div className="col-start-1 col-end-3 h-[50vh] md:h-[35vh] xl:h-[40vh] xl:px-9">
         <div className="h-[40%] md:h-[70%] px-4 md:px-0">
           <div className="h-full">
-            <a href=''><img src="/src/img/redes_sociales.jpeg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 z-10"></img></a>
+            <a href=''><img src="/src/img/redes_sociales.jpeg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 transition-transform z-10"></img></a>
           </div>
         </div>
         <div className="text-texto font-ptsans text-2xl flex items-center h-[10%] md:h-[30%] -mt-4 xl:-mt-6 xl:h-[15%] px-7 md:p-1 xl:px-10">
@@ -25,7 +25,7 @@ const Services2 = () => {
       <div className="col-start-3 col-end-5 h-[50vh] md:h-[35vh] xl:h-[40vh] xl:px-9">
         <div className="h-[40%] md:h-[70%] px-4 md:px-0">
           <div className="h-full">
-            <a href=''><img src="/src/img/desarrollo_web.jpg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 z-10"></img></a>
+            <a href=''><img src="/src/img/desarrollo_web.jpg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 transition-transform z-10"></img></a>
           </div>
         </div>
         <div className="text-texto font-ptsans text-2xl flex items-center h-[10%] md:h-[30%] -mt-4 xl:-mt-6 xl:h-[15%] px-7 md:p-1 xl:px-10">
@@ -44,7 +44,7 @@ const Services2 = () => {
       <div className="col-start-5 col-end-7 h-[50vh] md:h-[35vh] xl:h-[40vh] xl:px-9">
         <div className="h-[40%] md:h-[70%] px-4 md:px-0">
           <div className="h-full">
-            <a href=''><img src="/src/img//audio_visual.jpeg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 z-10"></img></a>
+            <a href=''><img src="/src/img//audio_visual.jpeg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 transition-transform z-10"></img></a>
           </div>
         </div>
         <div className="text-texto font-ptsans text-2xl flex items-center h-[10%] md:h-[30%] -mt-4 xl:-mt-6 xl:h-[15%] px-7 md:p-1 xl:px-10">
@@ -63,7 +63,7 @@ const Services2 = () => {
       <div className="col-start-1 col-end-4 h-[50vh] md:h-[35vh] xl:h-[40vh] xl:px-9">
         <div className="h-[40%] md:h-[70%] px-4 md:px-0">
           <div className="h-full xl:px-16">
-            <a href=''><img src="/src/img/branding.jpg"  className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 z-10"></img></a>
+            <a href=''><img src="/src/img/branding.jpg"  className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 transition-transform z-10"></img></a>
           </div>
         </div>
         <div className="text-texto font-ptsans text-2xl flex items-center h-[10%] md:h-[30%] -mt-4 xl:-mt-6 xl:h-[15%] px-7 md:p-1 xl:px-36">
@@ -82,7 +82,7 @@ const Services2 = () => {
       <div className="col-start-4 col-end-7 h-[50vh] md:h-[35vh] xl:h-[40vh] xl:px-9">
         <div className="h-[40%] md:h-[70%] px-4 md:px-0">
           <div className="h-full xl:px-16">
-            <a href=''><img src="/src/img/google_ads.jpeg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 z-10"></img></a>
+            <a href=''><img src="/src/img/google_ads.jpeg" className="h-full w-full object-cover rounded-t-xl xl:hover:scale-105 transition-transform z-10"></img></a>
           </div>
         </div>
         <div className="text-texto font-ptsans text-2xl flex items-center h-[10%] md:h-[30%] -mt-4 xl:-mt-6 xl:h-[15%] px-7 md:p-1 xl:px-36">
